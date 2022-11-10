@@ -16,6 +16,9 @@
 <p align="center">
   Astra Bot List is an open-source!nt branch may have newer additions/features, but is also potentially more buggy or even insecure. Use at your own risk. If you have any issues, check the FAQs first please.
 </p>
+<p align="center">
+  <img src="https://imgur.com/1VuRUuT.png">
+</p>
 
 ### Website Preview [Website Link](https://beta.astrabots.xyz/)
 ### Do you need help? Join our [Discord Server](https://astrabots.xyz/join)
@@ -36,3 +39,12 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/39243722/119623756-29cdb280-be11-11eb-8bd0-d5e56a588c68.png">
 </p>
+
+# 📝 Terms of use
+![image](https://user-images.githubusercontent.com/39243722/120484161-7722c480-c3bb-11eb-8850-85a83bf3ab9d.png)
+> If i find your botlist without the footer you are X_X
+- You have permission to film and share videos, but you must include a mention of us, our server, in the video.
+- You are permitted to share in writing, but you must include a mention of us, our server, in the article.
+- You can't say things like "we did it."
+- You are unable to sell it.
+- Don't touch this section of the footer;
